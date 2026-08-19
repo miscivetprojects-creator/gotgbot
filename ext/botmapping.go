@@ -231,3 +231,4 @@ func (b *botData) shouldStopUpdates() bool {
 		return false
 	}
 }
+
