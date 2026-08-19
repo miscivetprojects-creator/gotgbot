@@ -13,7 +13,7 @@ import (
 
 //go:generate go run ./scripts/generate
 
-var (
+var (j
 	ErrNilBotClient       = errors.New("nil BotClient")
 	ErrInvalidTokenFormat = errors.New("invalid token format")
 )
